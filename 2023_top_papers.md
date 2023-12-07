@@ -1,5 +1,13 @@
 2023年度的 AI 顶会已经出炉，在此把关于图的论文呢筛选出来，以供后续学习。加粗文章为综述论文。
 
+- [人工智能](#人工智能)
+  - [AAAI](#aaai)
+  - [NeurlPS](#neurlps)
+  - [ACL](#acl)
+  - [CVPR](#cvpr)
+  - [ICML](#icml)
+  - [IJCAI](#ijcai)
+
 ## 人工智能
 
 ### AAAI
